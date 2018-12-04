@@ -7,10 +7,9 @@ ManagedKube’s Kubernetes Cost Attribution is an application to help you unders
 
 # Installation
 
-## Quick install with Google Cloud Marketplace
+## Quick install with Cloud Marketplace
 
-Get up and running with a few clicks! Install this `Kubernetes Cost Attribution` app to a Google
-Kubernetes Engine cluster using Google Cloud Marketplace. Follow the on-screen
+Get up and running with a few clicks! Install this `Kubernetes Cost Attribution` app to a Kubernetes cluster using Cloud Marketplace. Follow the on-screen
 instructions:
 *TODO: link to solution details page*
 
